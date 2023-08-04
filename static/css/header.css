@@ -1,0 +1,8 @@
+.sector {
+    color: black;
+}
+
+.sector:hover {
+    background-color: black;
+    color: white;
+}
